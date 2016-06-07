@@ -1,0 +1,20 @@
+{
+  "name": "megavideo",
+  "authors": [
+    "Justin Stewart <stewartjustin3@gmail.com>"
+  ],
+  "description": "creating a megavideo directive to illustrate how create directives",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.6"
+  }
+}
